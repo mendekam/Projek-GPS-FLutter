@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+}
